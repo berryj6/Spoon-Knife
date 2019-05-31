@@ -1,0 +1,1 @@
+I'm interested in working on a RISC-V simulator. One specific simulator I have been messing around with is [RARS](https://github.com/thethirdone/rars) and I have created my own [fork](https://github.com/Jgbcode/rars). This repository works using a blessed repository structure were developers can file pull requests to get their code merged into the main branch.
